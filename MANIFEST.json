@@ -2,7 +2,7 @@
   "schema_version": 1,
   "title": "人情与规则：熟人社会里的现代生活",
   "version": "0.1",
-  "status": "complete_first_draft_pending_author_review",
+  "status": "complete_first_draft_content_accepted_by_author",
   "date": "2026-11-03",
   "algorithm": "SHA-256",
   "manifest_self_excluded": true,
@@ -27,13 +27,13 @@
     },
     {
       "path": "README.md",
-      "bytes": 3427,
-      "sha256": "1fe73d8833b81a46974a060709061bc21cebb284c4e2095de65c2f80d0f95e8f"
+      "bytes": 3562,
+      "sha256": "3f3815ac4aed3c2c9c1c043caa9cdb7373eae87a2aaa0df280d7f5330cef5e7e"
     },
     {
       "path": "book.json",
-      "bytes": 1642,
-      "sha256": "d38a2005d7dea12a1d3e796f1aa66c696e7ae99a40478b59775c790498665b0a"
+      "bytes": 1647,
+      "sha256": "c1ebd5e9cfb0ccc01ef9bf6db1a25212bba74ff1595bf01d2a360a0120896094"
     },
     {
       "path": "manuscript/00-preface.md",

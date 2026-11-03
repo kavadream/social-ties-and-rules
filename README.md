@@ -1,6 +1,8 @@
 # 人情与规则：熟人社会里的现代生活
 
-**KK 著 · 中文完整首稿 v0.1 · 2026年11月3日 · 待作者审阅**
+**KK 著 · 中文完整首稿 v0.1 · 2026年11月3日 · 内容已获作者验收**
+
+正文和版权文件保留首稿时的原有文字；当前内容验收状态以本页和元数据为准。
 
 为什么同一句“帮个忙”，在朋友、亲戚、同事和公共事务里会产生不同的责任？本书以原创故事讨论借钱、工作引荐、同乡互助、亲属经营、礼物、照护、群聊和共同规则，尝试让关心与可说明的责任同时存在。
 
@@ -16,7 +18,7 @@
 - [书籍元数据](book.json)
 - [文件校验清单](MANIFEST.json)
 
-所有人物、对话、金额与生活场景均为原创虚构示例，不是真实采访或作者亲历。引用与延伸阅读分别说明，未包含第三方作品全文。书稿为AI辅助形成的完整草案，仍待作者审定与专业编辑，不是已完成审定的出版定稿。
+所有人物、对话、金额与生活场景均为原创虚构示例，不是真实采访或作者亲历。引用与延伸阅读分别说明，未包含第三方作品全文。书稿为AI辅助形成的完整草案，内容已获作者验收；本页不宣称已完成专业编辑或出版审定。
 
 欢迎按章节、段落提交可读性与事实勘误。请勿提交敏感个人资料或无权公开的材料。反馈不自动构成授权或版权转让。公开阅读不等于开放许可，详见版权说明。
 
@@ -47,4 +49,4 @@
 
 Fei Xiaotong’s *From the Soil* is an intellectual starting point, not a source for chapter-by-chapter rewriting. The manuscript distinguishes historical inspiration, materials actually consulted, and further reading. All scenarios are fictional. It avoids presenting national, regional, generational, or gender stereotypes as explanations.
 
-This AI-assisted draft awaits the author’s review. Public access does not grant an open licence. No English translation of the full manuscript is included in this package.
+The author has accepted the content of this AI-assisted draft. Public access does not grant an open licence. No English translation of the full manuscript is included in this package.
