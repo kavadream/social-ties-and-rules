@@ -1,0 +1,119 @@
+{
+  "schema_version": 1,
+  "title": "人情与规则：熟人社会里的现代生活",
+  "version": "0.1",
+  "status": "complete_first_draft_pending_author_review",
+  "date": "2026-11-03",
+  "algorithm": "SHA-256",
+  "manifest_self_excluded": true,
+  "chapter_count": 12,
+  "book_unicode_characters": 26638,
+  "book_han_characters": 22150,
+  "files": [
+    {
+      "path": "BOOK.md",
+      "bytes": 75464,
+      "sha256": "d39465a8c8b72aa8783090b6d572185bfb7cd882c8b63761d199024c5e236ac5"
+    },
+    {
+      "path": "CHANGELOG.md",
+      "bytes": 405,
+      "sha256": "33edeb761b68f93bcd12f2ff6f704753c21d82c382056067aa912d6e52e3941e"
+    },
+    {
+      "path": "COPYRIGHT.md",
+      "bytes": 1033,
+      "sha256": "c2518f7bdf83a9e0cdeb8d0e009afff5a09a1f0d3c7b23f730602c1a45523f53"
+    },
+    {
+      "path": "README.md",
+      "bytes": 3427,
+      "sha256": "1fe73d8833b81a46974a060709061bc21cebb284c4e2095de65c2f80d0f95e8f"
+    },
+    {
+      "path": "book.json",
+      "bytes": 1642,
+      "sha256": "d38a2005d7dea12a1d3e796f1aa66c696e7ae99a40478b59775c790498665b0a"
+    },
+    {
+      "path": "manuscript/00-preface.md",
+      "bytes": 2662,
+      "sha256": "485d8c8b05ff72e0cec00cf3b60145a2ca4e20586ab00ca85f49cb6aaafc256e"
+    },
+    {
+      "path": "manuscript/01-two-identities.md",
+      "bytes": 5136,
+      "sha256": "6a935ee544fc1f8bc00a55fbccb02700827858f5d8597546e232042948f02bd2"
+    },
+    {
+      "path": "manuscript/02-request-cost.md",
+      "bytes": 4952,
+      "sha256": "22ff5a03ce09c65e636ba8e3d033c08451c3f34303f769a6c50e09a7b5f2e4c4"
+    },
+    {
+      "path": "manuscript/03-borrowing.md",
+      "bytes": 5111,
+      "sha256": "8c2457270ae8c5816751cf04eb8cc14d49e54c932bef989c68a8b44673c5a88b"
+    },
+    {
+      "path": "manuscript/04-job-introductions.md",
+      "bytes": 4855,
+      "sha256": "d85568de9bef2dc61845dbc765e12debdc771bdb6893b075ca35258a373fabbf"
+    },
+    {
+      "path": "manuscript/05-hometown.md",
+      "bytes": 5013,
+      "sha256": "92d444584b0cee02ae3d3f6b287ef38f3fc0aef96c76ea10a955a1583c7b931c"
+    },
+    {
+      "path": "manuscript/06-family-business.md",
+      "bytes": 5082,
+      "sha256": "68978152b5acc6176dc73402830dd804321bbfbeba3a0161485544526d0cfb96"
+    },
+    {
+      "path": "manuscript/07-gifts.md",
+      "bytes": 4892,
+      "sha256": "d427b9ce4a43a140a3356ce0cdb70b08c458885db9e404a19394342d091b0436"
+    },
+    {
+      "path": "manuscript/08-care.md",
+      "bytes": 4916,
+      "sha256": "79edc707afe2bc2c6e1c17e8cfe67c17945b8637b59524520516a3d3bd8711f0"
+    },
+    {
+      "path": "manuscript/09-digital-reputation.md",
+      "bytes": 4934,
+      "sha256": "ee01c02d6e214e03e55b8e369cf714239f7f442ad444f29103cb144736abd0bf"
+    },
+    {
+      "path": "manuscript/10-public-rules.md",
+      "bytes": 5091,
+      "sha256": "7edb3fa9f1997b63b6e915facaa548bb92346921efc8bff74da070ef9470c12d"
+    },
+    {
+      "path": "manuscript/11-repair-exit.md",
+      "bytes": 5209,
+      "sha256": "6bb1aad1223084f7c8a0fb9e9daecf46a4031d93216ac90864f8e78c4814a391"
+    },
+    {
+      "path": "manuscript/12-belonging.md",
+      "bytes": 6037,
+      "sha256": "684b6eecb6a42cf31f17135fac174d0a2a6b56241c4b438e63587afc35a41b1b"
+    },
+    {
+      "path": "manuscript/13-appendix.md",
+      "bytes": 6377,
+      "sha256": "9e59f350fed17e393593ae2c2444860207d421f01434e1beed02326f85a941da"
+    },
+    {
+      "path": "scripts/build.py",
+      "bytes": 3749,
+      "sha256": "254e15d6b3477c39b819c8376243118e842439a68b2d92d5ac82a3393638d5b5"
+    },
+    {
+      "path": "sources/READING-NOTES.md",
+      "bytes": 4611,
+      "sha256": "99412be9aa835438047cdc050234fa1cec020465ebe554869a58eec3a9e38725"
+    }
+  ]
+}
