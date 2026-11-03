@@ -40,7 +40,8 @@
     "sources/READING-NOTES.md"
   ],
   "source_format": "UTF-8 Markdown",
-  "full_english_translation_included": false,
+  "full_english_translation_included": true,
   "fictional_scenarios": true,
-  "ai_assisted_draft": true
+  "ai_assisted_draft": true,
+  "english_translation_status": "complete-ai-assisted-preview-pending-native-English-review"
 }
